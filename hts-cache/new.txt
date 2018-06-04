@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:05:52	6866/6866	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%225e15-nYP5cfMpBlfxfmcRmixMG6worSs%22	http://karafungirl.pagedemo.co/robots.txt		(from )
+01:05:52	25582/25582	---MCZ	200	added ('OK')	text/html	etag:W/%2263ee-kogmkUsh28M2ZHP2jqobimBBYdM%22	http://karafungirl.pagedemo.co/	C:/My%20Web%20Sites/karafungirl/karafungirl.pagedemo.co/index.html	(from )
